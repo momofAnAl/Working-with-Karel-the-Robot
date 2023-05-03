@@ -42,4 +42,4 @@ Karel’s commands, are not executed on their own. Instead, you need to incorpor
 [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](https://www.linkedin.com/in/annieyentran/)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/momofAnAl)
 
 ## Email Me :e-mail:
-[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/secured-letter.png" title="Mail me">](mailto:anhtr077@gmail.com)
+[<img src="https://img.icons8.com/bubbles/100/null/new-post.png"/>](mailto:anhtr077@gmail.com)
